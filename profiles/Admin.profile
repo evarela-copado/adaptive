@@ -2489,6 +2489,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Rollback_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.SAP_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
