@@ -1,6 +1,9 @@
 public class AccountAutomations {
+    //comment
     Public static Account setDefaultDescription(Account a){
-        If (a.Description != null) return a;
+        If (a.Description != null) {
+        return a;
+        }
         Else {
             a.Description = 'Default description';
             return a;
