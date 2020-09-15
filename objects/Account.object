@@ -303,6 +303,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Rollback_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Rollback Field</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>SAP_Account__c</fullName>
         <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
